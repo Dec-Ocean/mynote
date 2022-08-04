@@ -18,4 +18,4 @@ clear：both的意思就是：不允许左侧和右侧有浮动对象。
 内墙：在div元素中**插入一个新的div元素，并给这个新的第v元素设置clear：both属性，此时div的高度受到p元素的高度影响。**
 
 **办法4：overflow:hidden**
-overflow即**溢出**，hidden即
+overflow即**溢出**，hidden即**隐藏**，这个属性的含义是**隐藏溢出的内容**
